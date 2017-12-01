@@ -24,6 +24,8 @@ class licao_controller extends Controller
     public function create()
     {
         //
+
+        return view('licao/new');
     }
 
     /**
